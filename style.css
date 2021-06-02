@@ -4,3 +4,13 @@ header{
 .clear{
     clear: both;
 }
+body{
+    background-image: url(img/10951132-medieval-background.jpg);
+    background-attachment: fixed;
+}
+.border{
+    border: 75px;
+}
+.clear{
+    clear: both;
+}
