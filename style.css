@@ -14,3 +14,8 @@ body{
 .clear{
     clear: both;
 }
+main{
+    margin-left: 225px;
+    margin-right: 225px;
+    padding: 25px;
+}
