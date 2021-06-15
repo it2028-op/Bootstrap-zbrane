@@ -4,3 +4,4 @@ Tato stránka bude obsahovat typy zbraní a styly jejich užití.
 0.2.1 - přidání obrázků
 0.2.2 - přidání kategorie, kompletní úvodní stránka
 0.3.1 - první stránky, část footru
+0.4 - validace, dokonceni zakladu
